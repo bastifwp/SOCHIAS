@@ -1,11 +1,12 @@
 # SOCHIAS
+Workshop material on Machine Learning and Deep Learning applied to predicting stellar parameters from spectra.
+
 
 ## Notebooks
-
-- **`regresionML_SOCHIAS.ipynb`** — Predicts effective temperature and v sin i using Random Forest.
+- **`regresionML_SOCHIAS.ipynb`** — Predicts effective temperature and v sin i using Random Forest.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bastifwp/SOCHIAS/blob/main/regresionML_SOCHIAS.ipynb)
 
-- **`regresionDL_SOCHIAS.ipynb`** — Predicts stellar parameters with a 1D CNN, including uncertainty estimation (Monte Carlo Dropout).
+- **`regresionDL_SOCHIAS.ipynb`** — Predicts stellar parameters with a 1D CNN, including uncertainty estimation (Monte Carlo Dropout).  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bastifwp/SOCHIAS/blob/main/regresionDL_SOCHIAS.ipynb)
 
 ## Usage

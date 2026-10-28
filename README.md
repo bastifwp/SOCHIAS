@@ -1,12 +1,11 @@
 # SOCHIAS
-Workshop material on Machine Learning and Deep Learning applied to predicting stellar parameters from spectra.
-
+Workshop material on Machine Learning and Deep Learning applied to predicting stellar parameters from spectra, prepared for the XXI Annual Meeting of the Chilean Astronomical Society (SOCHIAS).
 
 ## Notebooks
-- **`regresionML_SOCHIAS.ipynb`** — Predicts effective temperature and v sin i using Random Forest.  
+- **`regressionML_SOCHIAS.ipynb`** — Predicts effective temperature and v sin i using Random Forest.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bastifwp/SOCHIAS/blob/main/regressionML_SOCHIAS.ipynb)
 
-- **`regresionDL_SOCHIAS.ipynb`** — Predicts stellar parameters with a 1D CNN, including uncertainty estimation (Monte Carlo Dropout).  
+- **`regressionDL_SOCHIAS.ipynb`** — Predicts stellar parameters with a 1D CNN, including uncertainty estimation (Monte Carlo Dropout).  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bastifwp/SOCHIAS/blob/main/regressionDL_SOCHIAS.ipynb)
   
 
